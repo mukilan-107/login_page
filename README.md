@@ -70,3 +70,7 @@ git clone https://github.com/mukilan-107/login_Page.git
 1. Navigate to `index.php` in your browser to access the signup page.
 2. Enter your details to sign up. The data will be stored in the database.
 3. Use the same credentials to log in. If successful, you will be redirected to `main.php`; if not, an error message will be shown.
+
+##Images
+
+![Screenshot (39)](https://github.com/user-attachments/assets/9bde3e6a-14b9-418f-b07e-0ec1df752415)
